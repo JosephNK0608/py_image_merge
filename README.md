@@ -19,5 +19,7 @@ Start Server
 $ bash run.sh
 ```
 
-Postman 테스트 예제  
+Postman 테스트 예제 
+
+![Image](https://raw.githubusercontent.com/JosephNK0608/py_image_merge/main/screenshots/screenshot_3288.png)
 
