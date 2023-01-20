@@ -23,3 +23,5 @@ Postman 테스트 예제
 
 ![Image](https://raw.githubusercontent.com/JosephNK0608/py_image_merge/main/screenshots/screenshot_3288.png)
 
+Send 버튼 누를 때, Send And Download로 클릭!
+
